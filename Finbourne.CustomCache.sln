@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finbourne.CustomCache", "Finbourne.CustomCache\Finbourne.CustomCache.csproj", "{FD923882-98B8-4972-9B75-15553F1DFEC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finbourne.CustomCacheTests", "Finbourne.CustomCacheTests\Finbourne.CustomCacheTests.csproj", "{EEF09631-0F04-4DAA-8517-C51CC23793D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD923882-98B8-4972-9B75-15553F1DFEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD923882-98B8-4972-9B75-15553F1DFEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD923882-98B8-4972-9B75-15553F1DFEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD923882-98B8-4972-9B75-15553F1DFEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF09631-0F04-4DAA-8517-C51CC23793D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF09631-0F04-4DAA-8517-C51CC23793D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF09631-0F04-4DAA-8517-C51CC23793D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF09631-0F04-4DAA-8517-C51CC23793D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {902CB72A-67AC-489F-B3AE-9EEBA4E6AB4E}
+	EndGlobalSection
+EndGlobal
